@@ -1,2 +1,2 @@
 # Bangun-Datar---Plane-Figure-Java
-BAngun Datar
+Square, Rectangle, Circle and Ellipse
